@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🤓 I'm confucian.
+
+- 🔭 I’m currently working on Web3.
+- 🌱 I’m currently learning blockchain dev.
