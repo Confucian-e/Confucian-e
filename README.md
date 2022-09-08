@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 
 - 🤓 I'm confucian.
