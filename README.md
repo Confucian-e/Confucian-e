@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <!-- ![Confucian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight&layout=compact) -->
