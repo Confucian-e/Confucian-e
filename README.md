@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🤓 I'm confucian.
-
 - 🔭 I’m currently working on Web3.
 - 🌱 I’m currently learning blockchain dev.
 
