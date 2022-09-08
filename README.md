@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 - 🤓 I'm confucian.
 - 🔭 I’m currently working on Web3.
-- 🌱 I’m currently learning blockchain dev. ![Confucian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight)
+- 🌱 I’m currently learning blockchain dev. 
+
+<!-- ![Confucian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight&layout=compact)
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight&layout=compact" /> -->
-
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight&layout=compact" />
-</a> -->
