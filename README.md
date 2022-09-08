@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web3.
 - 🌱 I’m currently learning blockchain dev.
+
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=Confucian-e&show_icons=true&hide_border=true)
