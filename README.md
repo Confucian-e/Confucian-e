@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 
 <img height="60" width="60" src="./logo/Rust_(programming_language)-Logo.wine.svg"><img height="60" width="60" src="./logo/Ethereum-Logo.wine.svg"><img height="60" width="60" src="./logo/Node.js-Logo.wine.svg"><img height="60" width="60" src="./logo/React_(web_framework)-Logo.wine.svg"><img height="60" width="60" src="./logo/Solidity-Logo.wine.svg">
 
-![](https://raw.githubusercontent.com/Confucian-e/Confucian-e/main/profile-summary-card-output/material_palenight/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Confucian-e/Confucian-e/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Confucian-e&theme=material_palenight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Confucian-e&theme=material_palenight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Confucian-e&theme=material_palenight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Confucian-e&theme=material_palenight&utcOffset=8)
