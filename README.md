@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Confucian-e&theme=material_palenight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Confucian-e&theme=material_palenight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Confucian-e&theme=material_palenight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Confucian-e&theme=material_palenight&utcOffset=8)
