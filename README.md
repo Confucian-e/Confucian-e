@@ -1,32 +1,34 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight" />
+<div align="center">
+  
+### *"The future is decentralized, intelligent, and open-source"*
 
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Web3+Developer+%26+AI+Engineer;Building+the+Future+of+DeFi;Smart+Contracts+%26+dApps;AI+Agents+%26+Automation;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-<!--
-**Confucian-e/Confucian-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+## 🌟 Web3 Builder & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🚀 **Full-Stack Web3 Developer** specializing in blockchain and AI technologies
+- 💡 **Expertise:** Smart Contracts, DeFi, AI/ML, and decentralized applications
+- 🌍 **Mission:** Building innovative solutions that bridge Web3 and artificial intelligence
+- 🎯 **Focus Areas:** AI Agents, Cross-Chain protocols, and DeFi ecosystems
 
-- 🤓 I'm Confucian.
-- 🔭 I’m currently working on Web3.
-- 🌱 I’m currently learning blockchain dev.
+### 🎯 Current Mission
+- ⚡ **Building** next-generation Web3 infrastructure
+- 🧠 **Exploring** AI integration in blockchain ecosystems  
+- 🔬 **Research** in DeFi protocols and smart contract optimization
+- 🌐 **Contributing** to open-source Web3 projects
 
-**It's my honor to meet you here! Thank you. 😘**
+### 🤝 Let's Connect & Collaborate!
+*Always excited to discuss Web3 innovations, AI breakthroughs, and the future of decentralized technology!*
 
-### Technology Stack
+## 📊 GitHub Analytics
 
-<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" /><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Confucian-e&theme=material_palenight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Confucian-e&theme=material_palenight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Confucian-e&theme=material_palenight&utcOffset=8)
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Confucian-e&theme=material_palenight" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Confucian-e&count_private=true&show_icons=true&theme=tokyonight" />
+
+</div>
